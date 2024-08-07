@@ -3,6 +3,8 @@
 A mild colorscheme inspired by the builtins `habamax`, `lunaperche` and the new Neovim default
 colorscheme.
 
+![image](https://github.com/user-attachments/assets/ebb588ea-289d-4a3a-bc42-7523830bc8f8)
+
 ## Setup
 
 Lazy:
