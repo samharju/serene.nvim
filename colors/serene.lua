@@ -1,1 +1,1 @@
-require("serene").load()
+require("serene").load({})

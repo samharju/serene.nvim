@@ -59,6 +59,9 @@ function M.load(opts)
 		if opts.transparent then
 			p.bg = "NONE"
 			p.clbg = p.black
+		else
+			p.bg = p.black
+			p.clbg = p.lift
 		end
 	end
 
